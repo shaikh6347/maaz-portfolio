@@ -9,6 +9,7 @@ export const profile = {
   linkedinUrl: "www.linkedin.com/in/maaz-shaikh7272", // YOUR_LINKEDIN_URL
   phone: "+91 8530290930", // YOUR_PHONE
   location: "MUMBAI, MAHARASHTRA", // YOUR_LOCATION
+  availability: "Available for opportunities",
   photo: "/images/Maaz_Shaikh_Pic.jpg",
   resume: "/resume/Maaz_Shaikh_Resume.pdf", // YOUR_RESUME_PATH
   bio:  
